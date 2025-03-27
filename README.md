@@ -25,7 +25,7 @@ Hey, meet Shubham Chavan, a passionate **DevOps Engineer** on a mission to autom
 
 
 ## 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SChavan91)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SChavan91&show_icons=true&count_private=true)
 
 
 
