@@ -12,6 +12,12 @@ Hey, meet Shubham Chavan, a passionate **DevOps Engineer** on a mission to autom
 
 
 ## ⚡ Tech Stack & Tools I Use
+☁️ Cloud & Platforms	🔧 DevOps & CI/CD	🐳 Containers & Orchestration	📊 Monitoring & Infra	🚀 IaC & Automation
+AWS	Jenkins	Docker	Prometheus	Terraform
+Azure	GitHub Actions	Kubernetes	Grafana	Ansible
+Google Cloud	GitLab CI	Helm	SonarQube	
+
+
 
 
 
