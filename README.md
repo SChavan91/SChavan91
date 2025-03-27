@@ -9,3 +9,31 @@ Hey, meet Shubham Chavan, a passionate **DevOps Engineer** on a mission to autom
 🔹 **Automation Lover** – Scripting, CI/CD pipelines, Infrastructure as Code (IaC), and making deployments seamless.
 
 ## 💡 Let's innovate, automate, and optimize! 🚀
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/bfc547f4-9ae3-49dd-bc79-6ebd35cd51fe)
+
+
+
+
+
+
+
+
+
+
+
+
