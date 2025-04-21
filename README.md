@@ -1,15 +1,12 @@
-## Hi there, I'm Shubham Chavan 👋
-## DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD
+# Hey there! I'm Rahul Nagaraju 👋
 
+Welcome to my GitHub profile! 😁
 
-Hey, meet Shubham Chavan, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.
+I’m a passionate Cloud Engineer with nearly 5 years of experience crafting scalable, efficient, and resilient cloud infrastructures. I thrive on solving complex problems and turning ideas into powerful cloud solutions. Whether it’s Cloud Engineering, DevOps, or Site Reliability Engineering (SRE), I’m always pushing the boundaries of what’s possible.
 
-🔹 **Cloud & DevOps Enthusiast** – Architecting scalable, secure, and high-performance infrastructures using AWS, Azure, Kubernetes, Terraform, and more.
+Let’s connect and build something amazing together!
 
-🔹 **Automation Lover** – Scripting, CI/CD pipelines, Infrastructure as Code (IaC), and making deployments seamless.
-
-## 💡 Let's innovate, automate, and optimize! 🚀
-
+![Profile views](https://komarev.com/ghpvc/?username=rahulnagaraju&label=Profile%20views&color=0e75b6&style=flat)
 
 ## ⚡ Tech Stack & Tools I Use
 ![image](https://github.com/user-attachments/assets/4db2f437-8721-4dbb-9f23-3746720d7512)
