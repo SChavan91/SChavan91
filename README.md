@@ -26,6 +26,19 @@
 ---
 
 
+<h3 align="left">🚀 What I Bring to the Table</h3>
+
+- **Deep Cloud Expertise:** Skilled in AWS, Docker, Kubernetes, Terraform and Jenkins. I’m experienced in creating robust, automated solutions for scalable cloud infrastructure.
+- **Automation & Efficiency:** From CI/CD pipelines to Infrastructure as Code, I love optimizing workflows to improve efficiency and minimize downtime.
+- **Mentorship & Collaboration:** I thrive in team environments and enjoy sharing knowledge, mentoring, and working together to tackle challenges.
+
+---
+
+- 🌱 I’m currently learning to expertise in **Cloud, Kubernetes and Terraform**
+
+- 💬 Ask me about **Cloud, Docker, Kubernetes, and Automation Tools**
+
+- 📫 How to reach me **chavan.shubham9115@gmail.com**
 
 
 ## ⚡ Tech Stack & Tools I Use
