@@ -1,15 +1,29 @@
-<!-- GIF on the left -->
-<img align="left" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="300" style="margin-right: 20px;" />
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      
+<h1>Hey there! I'm Shubham Chavan 👋</h1>
 
-# Hey there! I'm Rahul Nagaraju 👋
+Welcome to my GitHub profile! 😁  
+<br/>
+I’m a passionate DevOps Engineer with nearly 4 years of experience crafting scalable, efficient, and resilient cloud infrastructures.  
+I thrive on solving complex problems and turning ideas into powerful cloud solutions.  
 
-Welcome to my GitHub profile! 😁
-
-I’m a passionate Cloud Engineer with nearly 5 years of experience crafting scalable, efficient, and resilient cloud infrastructures. I thrive on solving complex problems and turning ideas into powerful cloud solutions. Whether it’s Cloud Engineering, DevOps, or Site Reliability Engineering (SRE), I’m always pushing the boundaries of what’s possible.
-
+Whether it’s **Cloud Engineering**, **DevOps**, or **Site Reliability Engineering (SRE)**, I’m always pushing the boundaries of what’s possible.  
+<br/>
 Let’s connect and build something amazing together!
 
-![Profile views](https://komarev.com/ghpvc/?username=rahulnagaraju&label=Profile%20views&color=0e75b6&style=flat)
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=SChavan91&label=Profile%20views&color=0e75b6&style=flat)
+
+</td>
+<td valign="top" width="40%">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+</td>
+  </tr>
+</table>
+
 
 
 
