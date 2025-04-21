@@ -7,6 +7,8 @@ I’m a passionate DevOps Engineer with nearly 4 years of experience crafting sc
 Let’s connect and build something amazing together!
 
 ![Profile views](https://komarev.com/ghpvc/?username=rahulnagaraju&label=Profile%20views&color=0e75b6&style=flat)
+![image](https://github.com/user-attachments/assets/f26f09f9-a343-479d-9d1a-c58a5a2c1d6d)
+
 
 ## ⚡ Tech Stack & Tools I Use
 ![image](https://github.com/user-attachments/assets/4db2f437-8721-4dbb-9f23-3746720d7512)
