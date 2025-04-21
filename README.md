@@ -1,31 +1,29 @@
+
+<h1 align="left"> Hey there! I'm Shubham Chavan 👋</h1>
+
 <table>
   <tr>
-    <td valign="top" width="60%">
-      
-<h1>Hey there! I'm Shubham Chavan 👋</h1>
-
-Welcome to my GitHub profile! 😁  
-<br/>
-I’m a passionate DevOps Engineer with nearly 4 years of experience crafting scalable, efficient, and resilient cloud infrastructures.  
-I thrive on solving complex problems and turning ideas into powerful cloud solutions.  
-
-Whether it’s **Cloud Engineering**, **DevOps**, or **Site Reliability Engineering (SRE)**, I’m always pushing the boundaries of what’s possible.  
-<br/>
-Let’s connect and build something amazing together!
-
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=SChavan91&label=Profile%20views&color=0e75b6&style=flat)
-
-</td>
-<td valign="top" width="40%">
-  <a href="https://youtu.be/zkNvs10HhBA" target="_blank">
-    <img src="https://img.youtube.com/vi/zkNvs10HhBA/0.jpg" width="300" alt="DevOps Video Thumbnail"/>
-  </a>
-</td>
+    <td>
+      <p align="left">
+        Welcome to my GitHub profile! 😃
+        <br> <br>
+        I’m a passionate DevOps Engineer with nearly 4 years of experience crafting scalable, efficient, and resilient cloud infrastructures. 
+        I thrive on solving complex problems and turning ideas into powerful cloud solutions. 
+        Whether it’s Cloud Engineering, DevOps, or Site Reliability Engineering (SRE), I’m always pushing the boundaries of what’s possible. 
+        <br> <br>
+        Let’s connect and build something amazing together!"
+      </p>
+      <p align="left">
+        <img src="https://komarev.com/ghpvc/?username=SChavan91&label=Profile%20views&color=0e75b6&style=flat" alt="SChavan91" />
+      </p>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" align="right">
+    </td>
   </tr>
 </table>
 
+---
 
 
 
