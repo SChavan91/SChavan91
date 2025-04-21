@@ -19,10 +19,13 @@ Let’s connect and build something amazing together!
 
 </td>
 <td valign="top" width="40%">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+  <a href="https://youtu.be/zkNvs10HhBA" target="_blank">
+    <img src="https://img.youtube.com/vi/zkNvs10HhBA/0.jpg" width="300" alt="DevOps Video Thumbnail"/>
+  </a>
 </td>
   </tr>
 </table>
+
 
 
 
