@@ -40,6 +40,8 @@
 
 - 📫 How to reach me **chavan.shubham9115@gmail.com**
 
+---
+
 
 ## ⚡ Tech Stack & Tools I Use
 ![image](https://github.com/user-attachments/assets/4db2f437-8721-4dbb-9f23-3746720d7512)
